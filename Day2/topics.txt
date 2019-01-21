@@ -1,0 +1,7 @@
+1- graph representation
+2- queue
+3- bfs
+4- stack
+5- dfs
+6- union-find
+7- tree representation 
