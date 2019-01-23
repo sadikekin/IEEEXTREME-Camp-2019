@@ -1,0 +1,5 @@
+1- tree
+2- pre-order/in-order/post-order
+3- bfs in the matrix
+4- topological sort
+
